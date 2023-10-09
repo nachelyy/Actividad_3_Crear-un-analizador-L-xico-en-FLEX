@@ -1,0 +1,6 @@
+Estudiante: Nachely Rodriguez Vasquez.
+Matriculoa: 2-19-0705.
+
+Este archivo es una muestra de prueba que se ha documentado para cumplir con la tarea de desarrollar un analizador léxico en Flex.
+El objetivo de este archivo es realizar el conteo de palabras y caracteres.
+
